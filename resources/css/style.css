@@ -29,3 +29,15 @@ h2 {
 p {
   font-size: 14px;
 }
+.design {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+span {
+  font-size: 11px;
+}
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
